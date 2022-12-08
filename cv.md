@@ -2,6 +2,7 @@
 
 ## discord: (Energy#5433) phone number (A1) +375293180914
 
+* [my photo](https://github.com/Grensel/rsschool-cv/blob/gh-pages/photo.jpg)
 * (/rsschool-cv/photo.jpg)
 * _I work in the road construction industry, I love a job well done. I want to join the IT field, I have no experience in it, but I know how to learn and I like to learn something new._
 
