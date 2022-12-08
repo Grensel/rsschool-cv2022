@@ -1,1 +1,1 @@
-https://Grensel/rsschool-cv/cv
+https://Grensel/rsschool-cv/
