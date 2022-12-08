@@ -6,7 +6,7 @@
 
 * *Started learning html css*
 
-* ```
+ ```html
  <html>
   <head>
     <title>Head First Lounge</title>
