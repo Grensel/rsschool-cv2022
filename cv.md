@@ -1,13 +1,21 @@
 # Sergei Odinochenko
 
-## discord: (Energy#5433) phone number (A1) +375293180914
+## **Contacts** 
+* **Location:** Minsk, Belarus
+* **Discord:** Energy#5433
+* **phone:** (A1) +375293180914
+* **Email:** sergeiodinochenko@mail.ru
 
-* [my photo](https://github.com/Grensel/rsschool-cv/blob/gh-pages/photo.jpg)
+![photo](https://github.com/Grensel/rsschool-cv/blob/gh-pages/img/photo.jpg)
 
+## **About Me**
 * _I work in the road construction industry, I love a job well done. I want to join the IT field, I have no experience in it, but I know how to learn and I like to learn something new._
 
+## **Skills**
 * *Started learning html css*
+* Git/GitHub
 
+## **Code Example**
  ```html
  <html>
   <head>
@@ -35,8 +43,12 @@
 </html>
 ```
 
+## **Experience**
 * *I have no work experience, but I started studying at rsschool. [first work](https://github.com/Grensel/rsschool-cv)*
 
-* *Education: **higher**, mechanical engineer*
+## **Education**
+* **higher**, mechanical engineer*
 
-* *Knowledge of English at level **A1***
+## **Langueges:**
+* Knowledge of English at level **A1**
+* Russian: Native
