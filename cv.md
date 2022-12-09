@@ -36,7 +36,7 @@
     <p>
       You'll find us right in the center of downtown Webville.   
       If you need help finding us, check out 
-      our <a href="about/directions.html">detailed directions</a>. 
+      our <a href="about/directions.html">detailed directions</a>.
       Come join us!
     </p>
   </body>
