@@ -6,7 +6,7 @@
 * **phone:** (A1) +375293180914
 * **Email:** sergeiodinochenko@mail.ru
 
-![photo](/images/photo.jpg)
+![photo](assets\img\photo.jpg)
 
 ## **About Me**
 * _I work in the road construction industry, I love a job well done. I want to join the IT field, I have no experience in it, but I know how to learn and I like to learn something new._
