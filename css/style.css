@@ -1,12 +1,12 @@
 @font-face {
-  font-family: "PlayfairDisplay";
-  src: url("/assets/fonts/PlayfairDisplay-Medium.ttf");
-  font-weight: 400;
+  font-family: "Roboto";
+  src: url("/assets/fonts/Roboto-Thin.ttf");
+  font-weight: 100;
 }
 @font-face {
-  font-family: "PlayfairDisplay";
-  src: url("/assets/fonts/PlayfairDisplay-Regular.ttf");
-  font-weight: 500;
+  font-family: "Roboto";
+  src: url("/assets/fonts/Roboto-Regular.ttf");
+  font-weight: 300;
 }
 * {
   box-sizing: border-box;
@@ -14,12 +14,15 @@
 html {
   scroll-behavior: smooth;
 }
-.body {
-  font-family: "PlayfairDisplay";
-}
 .container {
   max-width: 1440px;
   margin: 0 auto;
+}
+.body {
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5; 
 }
 .body {
   min-height: 100vh;
@@ -32,7 +35,8 @@ html {
   justify-content: space-between;
 }
 .header {
-  border: 1px solid red;
+  font-size: 140%;
+  background-color:#7a91a4; 
 }
 .nav-list {
   list-style: none;
@@ -41,18 +45,54 @@ html {
   display: flex;
   justify-content: space-around;
   align-items: center;
-}
+ }
 .nav-link {
   padding: 0 20px;
   line-height: 50px;
 }
+.nav-item:hover {
+  background-color: #687c8d;
+  cursor: pointer;
+}
+.nav-link {
+  transition: .3s;
+}
+.span-item {
+  font-weight: bold;
+}
 .nav a {
   text-decoration: none;
-  color: rgb(38, 133, 43);
-  }
-.main {
-  border: 1px solid red;
+  font-weight: 600;
+  color: #1c2125;
+  transition: color 0.5s;
 }
-.footer {
-  border: 1px solid red;
+.left-side-container {
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 50%;
+  height: min-content;
+  background-color: #10243b;
+}
+.left-side-container {
+  color: #c07b42;
+}
+.Right-side-container {
+  float: right;
+  margin: 0;
+  padding: 0;
+  width: 50%;
+  height: min-content;
+  background-color: #c2e0f9;
+}
+.Right-side-container {
+  color: #202529;
+}
+.section {
+  width: 50%;
+}
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
 }

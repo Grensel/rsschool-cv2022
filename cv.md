@@ -1,9 +1,7 @@
 # Sergei Odinochenko
 
 ## **Contacts** 
-* **Location:** Minsk, Belarus
 * **Discord:** Energy#5433
-* **phone:** (A1) +375293180914
 * **Email:** sergeiodinochenko@mail.ru
 
 ![photo](assets\img\photo.jpg)
@@ -16,31 +14,22 @@
 * Git/GitHub
 
 ## **Code Example**
- ```html
- <html>
-  <head>
-    <title>Head First Lounge</title>
-  </head>
-  <body>
-    <h1>Welcome to the New and Improved Head First Lounge</h1>
-    <img src="images/drinks.gif">
-    <p>
-       Join us any evening for 
-       refreshing <a href="beverages/elixir.html">elixirs</a>, 
-       conversation and maybe a game or two of 
-       <em>Dance Dance Revolution</em>.
-       Wireless access is always provided;  
-       BYOWS (Bring your own web server).
-    </p>
-    <h2>Directions</h2>
-    <p>
-      You'll find us right in the center of downtown Webville.   
-      If you need help finding us, check out 
-      our <a href="about/directions.html">detailed directions</a>.
-      Come join us!
-    </p>
-  </body>
-</html>
+ ```css
+ .nav-list {
+  list-style: none;
+}
+.nav-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ }
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+.nav-item:hover {
+  background-color: #73b8bd;
+  cursor: pointer;
 ```
 
 ## **Experience**
