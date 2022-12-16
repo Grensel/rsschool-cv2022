@@ -86,6 +86,9 @@ html {
 .left-side-section{
   margin: 15px;
 }
+.left-article-title {
+  background-color: #0e2846;
+}
 .Right-side-container {
   display: flex;
   flex-direction: column;
@@ -96,6 +99,18 @@ html {
 }
 .Right-side-container {
   color: #5a381d;
+}
+.right-article-title {
+  background-color: #bcdaf3;
+}
+.link-work {
+  font-weight: bold;
+  text-decoration: none;
+  color: #5a381d;
+}
+.link-work:hover {
+  background-color: #95aec2;
+  cursor: pointer;
 }
 .footer {
   background-color: #7a91a4;
@@ -114,11 +129,19 @@ html {
   text-decoration: none;
   color: #412915;
 }
+.footer-github:hover {
+  background-color: #687c8d;
+  cursor: pointer;
+}
 .footer-year {
   justify-self: center;
   color: #412915;
 }
 .footer-rsschool {
   justify-self: end;
+  cursor: pointer;
+}
+.footer-rsschool:hover {
+  background-color: #687c8d;
   cursor: pointer;
 }
