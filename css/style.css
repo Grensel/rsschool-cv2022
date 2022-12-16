@@ -32,7 +32,7 @@ html {
 }
 .header {
   font-size: 120%;
-  background-color:#7a91a4; 
+  background-color:#7a91a4;
 }
 .nav-list {
   list-style: none;
@@ -69,10 +69,9 @@ html {
   justify-content: center;
   max-width: 1440px;
   margin: 0 auto;
-
 }
-.left-side-container { 
-  float: left;  
+.left-side-container {
+  float: left;
   margin: 0;
   padding: 0;
   background-color: #10243b;
