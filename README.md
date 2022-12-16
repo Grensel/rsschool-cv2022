@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Grensel.github.io/rsschool-cv/

@@ -1,0 +1,125 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("/assets/fonts/Roboto-Thin.ttf");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/assets/fonts/Roboto-Regular.ttf");
+  font-weight: 300;
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.body {
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5; 
+}
+.body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: #c2e0f973;
+}
+.header {
+  font-size: 120%;
+  background-color:#7a91a4; 
+}
+.nav-list {
+  list-style: none;
+  margin: 0;
+}
+.nav-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ }
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+.nav-item:hover {
+  background-color: #687c8d;
+  cursor: pointer;
+}
+.nav-link {
+  transition: .3s;
+}
+.span-item {
+  font-weight: bold;
+}
+.nav a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #412915;
+  transition: color 0.5s;
+}
+.main {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  max-width: 1440px;
+  margin: 0 auto;
+
+}
+.left-side-container { 
+  float: left;  
+  margin: 0;
+  padding: 0;
+  background-color: #10243b;
+}
+.figure-left-side {
+  margin: 0;
+  padding: 0;
+}
+.left-side-container {
+  color: #e2904d;
+}
+.left-side-section{
+  margin: 15px;
+}
+.Right-side-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 50px;
+  width:100%;
+  background-color: #c2e0f9;
+}
+.Right-side-container {
+  color: #5a381d;
+}
+.footer {
+  background-color: #7a91a4;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.footer-github {
+  position: relative;
+  cursor: pointer;
+  text-decoration: none;
+  color: #412915;
+}
+.footer-year {
+  justify-self: center;
+  color: #412915;
+}
+.footer-rsschool {
+  justify-self: end;
+  cursor: pointer;
+}
